@@ -14,7 +14,7 @@ module.exports = {
 			},
 			gridTemplateColumns: {
 				"auto-fit": "repeat(auto-fit, minmax(0, 1fr))",
-				fluid: "repeat(auo-fit, minmax(15rem, 1fr))",
+				fluid: "repeat(auto-fit, minmax(15rem, 1fr))",
 			},
 		},
 		plugins: [],
